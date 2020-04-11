@@ -69,6 +69,7 @@ img{
       <li>The Avengers(2012)</li>
     </ul>
     <p>The First Phase of The Marvel Cinematic Universe released some good movies which laid the foundaton for the Avengers as well as the Marvel Cinematic Universe. One film which drew the attention of the fans was The Avengers(2012), starring Robert Downey Jr.(Iron Man), Chris Evans(Captain America), Scarlette Johanson(Black Widow), Mark Ruffalo(The Hulk), Jeremy Renner(Hawk Eye) and Tom Hiddleston(Loki), the main six Avengers.</p>
+    <hr>
     <li>Marvel Cinematic Universe (Phase: 2)</li>
     <ul>
       <li>Iron Man 3(2013)</li>
